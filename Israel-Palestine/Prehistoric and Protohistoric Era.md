@@ -5,9 +5,9 @@
 
 Evidence from archaeological sites such as Qafzeh and Skhul caves near Mount Carmel suggests that anatomically modern humans (Homo sapiens) lived in the region as early as 300,000 years ago. These humans coexisted with Neanderthals, whose presence is also documented in nearby caves such as Tabun. The region acted as a critical migration corridor for early humans moving out of Africa into Eurasia. Excavations have revealed flint tools, butchered animal bones, and evidence of fire usage, indicating a subsistence strategy based on hunting and gathering. 
 
-#### Mousterian Culture (Circa 200,000 BCE -- 50,000 BCE)
+#### Mousterian Culture (Circa 200,000 BCE - 50,000 BCE)
 
-The Neanderthals in the region developed a distinctive stone tool culture known as the Mousterian tradition. Tools from this era, primarily made of flint, were used for hunting, cutting, and processing animal hides. Archaeological evidence points to the sophisticated use of local resources for survival in varying climatic conditions. (*[Cambridge World Prehistory](https://www.cambridge.org/)*)
+The Neanderthals in the region developed a distinctive stone tool culture known as the Mousterian tradition. Tools from this era, primarily made of flint, were used for hunting, cutting, and processing animal hides. Archaeological evidence points to the sophisticated use of local resources for survival in varying climatic conditions.
 
 #### Emergence of Modern Humans (Circa 100,000 BCE)
 
@@ -17,7 +17,7 @@ The transition from Neanderthals to anatomically modern humans in the region is 
 
 The Natufian culture, identified at sites like Ain Mallaha and Jericho, marked a transition from a purely nomadic lifestyle to semi-permanent settlements. Natufians constructed round stone huts and began the early cultivation of wild cereals, a precursor to agriculture. They also domesticated dogs and buried their dead in communal graves, showcasing increasingly complex societal structures. 
 
-### Neolithic Revolution: The Dawn of Agriculture (10,000 BCE -- 4500 BCE)
+### Neolithic Revolution: The Dawn of Agriculture (10,000 BCE - 4500 BCE)
 
 #### Beginnings of Agriculture (Circa 10,000 BCE)
 
@@ -31,7 +31,7 @@ The invention of pottery revolutionized food storage and transportation. Pottery
 
 Jericho, one of the world's earliest known cities, was fortified with massive stone walls, towers, and ditches. These defensive structures indicate advanced engineering knowledge and the presence of organized labor. They also suggest the need for protection against raids, emphasizing the growing competition for resources. 
 
-### Chalcolithic Period: Early Use of Metal (4500 BCE -- 3000 BCE)
+### Chalcolithic Period: Early Use of Metal (4500 BCE - 3000 BCE)
 
 #### Transition to Metallurgy (Circa 4500 BCE)
 
