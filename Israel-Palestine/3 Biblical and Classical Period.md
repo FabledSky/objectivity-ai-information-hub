@@ -1,5 +1,5 @@
 ## Biblical and Classical Period
-#### Reign of King Solomon and the First Temple (Circa 970--930 BCE)
+#### Reign of King Solomon and the First Temple (Circa 970-930 BCE)
 
 During King Solomon's reign, the united Kingdom of Israel reached its zenith of political and cultural influence. Solomon is traditionally credited with constructing the First Temple in Jerusalem, which became the central place of worship for the Israelites. The Temple housed the Ark of the Covenant and symbolized the religious and political unification of the Israelite tribes. Archaeological evidence of monumental building projects from this period aligns with descriptions of Jerusalem's growth as a significant urban center. 
 
@@ -15,7 +15,7 @@ In 722 BCE, the northern Kingdom of Israel fell to the Assyrian Empire, led by K
 
 The Babylonian Empire, under King Nebuchadnezzar II, besieged and captured Jerusalem in 586 BCE. The city and its First Temple were destroyed, and a significant portion of the Jewish population was exiled to Babylon. This period, known as the Babylonian Exile, had profound cultural and religious impacts, including the consolidation of Jewish religious texts. Archaeological evidence from Jerusalem reveals layers of destruction consistent with this event. 
 
-#### Exile Period and Cultural Adaptation (586--538 BCE)
+#### Exile Period and Cultural Adaptation (586-538 BCE)
 
 During the Babylonian Exile, Jewish communities maintained their religious identity while adapting to life in a foreign land. This period saw the development of synagogue-based worship and the beginnings of a formalized religious canon. The exile also fostered theological shifts, such as a stronger emphasis on monotheism. 
 
@@ -27,7 +27,7 @@ In 538 BCE, the Persian king Cyrus the Great conquered Babylon and issued the Cy
 
 Alexander the Great's conquest of the region in 332 BCE integrated it into the Hellenistic world. Greek language, architecture, and governance significantly influenced local societies. While many local populations adopted Hellenistic practices, Jewish communities resisted full assimilation, preserving their religious identity. 
 
-#### Revolt Against Hellenistic Rule: Maccabean Revolt (167--160 BCE)
+#### Revolt Against Hellenistic Rule: Maccabean Revolt (167-160 BCE)
 
 The Maccabean Revolt arose in response to the Seleucid Empire's imposition of Hellenistic religious practices, including the desecration of the Second Temple. The revolt successfully established Jewish autonomy under the Hasmonean dynasty, which lasted for about a century. 
 
@@ -35,15 +35,15 @@ The Maccabean Revolt arose in response to the Seleucid Empire's imposition of He
 
 In 63 BCE, Roman General Pompey captured Jerusalem and annexed the region into the Roman Republic. Roman rule introduced new administrative systems and infrastructure but also heightened tensions with local Jewish communities. Roman sources, such as writings by Josephus, provide detailed accounts of this period. 
 
-#### Herod the Great and the Expansion of the Second Temple (37--4 BCE)
+#### Herod the Great and the Expansion of the Second Temple (37-4 BCE)
 
 Herod the Great, a Roman client king, is known for his ambitious building projects, including the massive expansion of the Second Temple. This transformed Jerusalem into a major urban center and a focal point of Jewish religious life. Archaeological discoveries, including sections of the Temple Mount, affirm Herod's architectural contributions. 
 
-#### Jewish Revolts and the Destruction of the Second Temple (66--70 CE)
+#### Jewish Revolts and the Destruction of the Second Temple (66-70 CE)
 
 The First Jewish Revolt against Roman rule culminated in the Roman siege of Jerusalem in 70 CE. The destruction of the Second Temple marked a turning point in Jewish history, leading to the Jewish Diaspora and significant changes in religious practices. Roman records and archaeological findings confirm the scale of destruction during this period. 
 
-#### Bar Kokhba Revolt and the Renaming of Jerusalem (132--136 CE)
+#### Bar Kokhba Revolt and the Renaming of Jerusalem (132-136 CE)
 
 The Bar Kokhba Revolt was the last major Jewish rebellion against Roman rule. Its suppression resulted in widespread devastation and the expulsion of Jews from Jerusalem, which the Romans renamed Aelia Capitolina. Roman historical texts and archaeological evidence document the revolt's impact. 
 
