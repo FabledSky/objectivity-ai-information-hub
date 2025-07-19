@@ -1,5 +1,5 @@
 ## Prehistoric and Protohistoric Era
-### Paleolithic Period: Early Human Presence (300,000 BCE -- 10,000 BCE)
+### Paleolithic Period: Early Human Presence (300,000 BCE - 10,000 BCE)
 
 #### Early Human Settlements (Circa 300,000 BCE)
 
