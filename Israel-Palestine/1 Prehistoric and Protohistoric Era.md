@@ -13,7 +13,7 @@ The Neanderthals in the region developed a distinctive stone tool culture known 
 
 The transition from Neanderthals to anatomically modern humans in the region is evidenced by fossil discoveries and genetic studies. Homo sapiens gradually replaced Neanderthals, utilizing improved tools and exhibiting more advanced social behaviors. 
 
-#### Natufian Culture (Circa 12,000 BCE -- 10,000 BCE)
+#### Natufian Culture (Circa 12,000 BCE - 10,000 BCE)
 
 The Natufian culture, identified at sites like Ain Mallaha and Jericho, marked a transition from a purely nomadic lifestyle to semi-permanent settlements. Natufians constructed round stone huts and began the early cultivation of wild cereals, a precursor to agriculture. They also domesticated dogs and buried their dead in communal graves, showcasing increasingly complex societal structures. 
 
