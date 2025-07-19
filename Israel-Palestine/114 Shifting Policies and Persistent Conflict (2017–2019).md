@@ -1,5 +1,5 @@
 ## Shifting Policies and Persistent Conflict (2017–2019)
-This section delves deeply into the events of 2017--2019, a period of critical significance in the Israel-Palestine conflict. These years were marked by significant policy shifts, political upheavals, and recurring violence, with lasting implications for the region.
+This section delves deeply into the events of 2017-2019, a period of critical significance in the Israel-Palestine conflict. These years were marked by significant policy shifts, political upheavals, and recurring violence, with lasting implications for the region.
 
 ### 2017: Shifting U.S. Policies and Rising Regional Tensions
 
@@ -35,7 +35,7 @@ In a landmark decision, Trump officially recognized Jerusalem as Israel's capita
 
 ### 2018: Escalating Violence and Controversial Legislation
 
-#### The Great March of Return (March--December 2018)
+#### The Great March of Return (March-December 2018)
 
 In March 2018, Palestinians in Gaza launched the Great March of Return, a series of weekly protests along the border with Israel.
 
